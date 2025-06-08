@@ -7,7 +7,7 @@ name = "stateagent"
 version = "0.1.0"
 description = "A library for building reliable, state-driven LLM workflows using the State+CRUD pattern"
 readme = "README.md"
-license = "MIT"
+license = { text = "MIT" }
 authors = [
     {name = "Shreyas Kale", email = "shreyaskale11@gmail.com"}
 ]
