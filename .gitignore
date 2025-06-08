@@ -1,0 +1,14 @@
+.env
+.conda
+.pytest_cache
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+dist/
+stateagent.egg-info/
+
+llm_structured_agent.egg-info/*
+
+
