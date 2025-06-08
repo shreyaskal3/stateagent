@@ -44,8 +44,8 @@ examples = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/stateagent"
-Repository = "https://github.com/yourusername/stateagent"
+Homepage = "https://github.com/shreyaskal3/stateagent"
+Repository = "https://github.com/shreyaskal3/stateagent"
 
 
 [tool.setuptools.packages.find]
